@@ -4,9 +4,9 @@ Simple API demonstrating CRUD operations in TypeScript with Bun and GraphQL.
 
 ## 🛠 Built With
 
-[![Bun](https://img.shields.io/badge/bun-dimgray?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
-[![GraphQL](https://img.shields.io/badge/graphql-mediumvioletred?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![TypeScript](https://img.shields.io/badge/typescript-royalblue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bun Badge](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)](https://bun.sh/)
+[![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)](https://graphql.org/)
+[![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](https://www.typescriptlang.org/)
 
 ## ⚙️ Run Locally
 
@@ -35,4 +35,4 @@ Start the application
 bun run dev
 ```
 
-Open [browser](http://localhost:4000) for queries and mutations
+Open [browser](http://localhost:4000) for queries and mutations.
