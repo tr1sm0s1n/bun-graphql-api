@@ -9,10 +9,10 @@
     "bun-types": "latest"
   },
   "peerDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "latest"
   },
   "dependencies": {
-    "@apollo/server": "^4.9.3",
-    "graphql": "^16.8.0"
+    "@apollo/server": "latest",
+    "graphql": "latest"
   }
 }
