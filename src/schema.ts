@@ -55,4 +55,4 @@ export const typeDefs = `#graphql
     mentor_id: String!,
     pupil_id: String!
   }
-`;
+`
