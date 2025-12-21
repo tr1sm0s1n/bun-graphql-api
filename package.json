@@ -7,13 +7,13 @@
     "dev": "bun run --watch src/index.ts"
   },
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "1.3.5"
   },
   "peerDependencies": {
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@apollo/server": "latest",
-    "graphql": "latest"
+    "@apollo/server": "5.2.0",
+    "graphql": "16.12.0"
   }
 }
